@@ -1,0 +1,13 @@
+# Model va file nen (qua nang cho git)
+*.pt
+*.zip
+models/
+
+# Anh/ket qua sinh ra khi chay
+ketqua.jpg
+
+# Cau hinh may ca nhan
+.codex/
+.vscode/
+__pycache__/
+*.pyc
